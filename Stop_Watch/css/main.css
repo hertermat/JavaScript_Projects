@@ -1,0 +1,29 @@
+html{
+  background: aliceblue;
+}
+h1,h3{
+  text-align: center;
+}
+
+button{
+  padding: 18px 10px;
+  font-size:1.2em;
+  width:180px;
+  margin: 10px;
+  border-radius: 12px;
+}
+.start:hover{
+  background: darkseagreen;
+}
+.stop:hover{
+  background: indianred;
+}
+.reset:hover{
+  background: lightyellow;
+}
+.alignment{
+  text-align: center;
+}
+p{
+  font-size:5em;
+}
